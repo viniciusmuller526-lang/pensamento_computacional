@@ -10,9 +10,19 @@ Encontrar uma solução - Ordenação lógica das premissas
 Implementar a solução - Avaliação conclusiva
 Monitorar, analisar, e avaliar a solução - Conclusão
 
-Identificação: 
-A internet está lenta durante as aulas no laboratório
+Identificar: A internet da escola não aguenta vários alunos usando a internet ao mesmo tempo
 
-Análise:
-A internet, que normalmente é boa, fica ruim durante as aulas no laboratório
+Analisar: Pode ser problema no roteador, se estiverem usando PC, a configuração de rede dos PCs, 
+o plano de internet pode não ser suficiente ou os alunos 
+podem estar puxando muito a internet desnecessariamente.
+
+Encontrar uma solução: Poderia ser feito uma inspeção do uso da rede no laboratório sem alunos e depois com alunos, e então, 
+se estiverem usando os PCs, poderia ser colocado um limitador de rede. 
+Se nada resolver, o jeito será melhorar o plano de internet
+
+Implementação: Comprar roteadores melhores, e configurar um filtro de navegação, 
+para impedir pesquisas desnecessárias durante a aula.
+
+Conclusão: Após isso, depois de uma semana, poderia ser feito uma reunião com os professores 
+que usam o laboratório e perguntar se a internet melhorou.
 
